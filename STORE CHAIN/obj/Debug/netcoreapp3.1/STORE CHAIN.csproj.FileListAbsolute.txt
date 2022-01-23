@@ -1,0 +1,20 @@
+C:\MP\MadDuck\STORE CHAIN\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MP\MadDuck\STORE CHAIN\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MP\MadDuck\STORE CHAIN\bin\Debug\netcoreapp3.1\STORE CHAIN.exe
+C:\MP\MadDuck\STORE CHAIN\bin\Debug\netcoreapp3.1\STORE CHAIN.deps.json
+C:\MP\MadDuck\STORE CHAIN\bin\Debug\netcoreapp3.1\STORE CHAIN.runtimeconfig.json
+C:\MP\MadDuck\STORE CHAIN\bin\Debug\netcoreapp3.1\STORE CHAIN.runtimeconfig.dev.json
+C:\MP\MadDuck\STORE CHAIN\bin\Debug\netcoreapp3.1\STORE CHAIN.dll
+C:\MP\MadDuck\STORE CHAIN\bin\Debug\netcoreapp3.1\STORE CHAIN.pdb
+C:\MP\MadDuck\STORE CHAIN\obj\Debug\netcoreapp3.1\STORE CHAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\MP\MadDuck\STORE CHAIN\obj\Debug\netcoreapp3.1\STORE CHAIN.AssemblyInfoInputs.cache
+C:\MP\MadDuck\STORE CHAIN\obj\Debug\netcoreapp3.1\STORE CHAIN.AssemblyInfo.cs
+C:\MP\MadDuck\STORE CHAIN\obj\Debug\netcoreapp3.1\STORE CHAIN.csproj.CoreCompileInputs.cache
+C:\MP\MadDuck\STORE CHAIN\obj\Debug\netcoreapp3.1\STORE CHAIN.MvcApplicationPartsAssemblyInfo.cache
+C:\MP\MadDuck\STORE CHAIN\obj\Debug\netcoreapp3.1\staticwebassets\STORE CHAIN.StaticWebAssets.Manifest.cache
+C:\MP\MadDuck\STORE CHAIN\obj\Debug\netcoreapp3.1\staticwebassets\STORE CHAIN.StaticWebAssets.xml
+C:\MP\MadDuck\STORE CHAIN\obj\Debug\netcoreapp3.1\scopedcss\bundle\STORE CHAIN.styles.css
+C:\MP\MadDuck\STORE CHAIN\obj\Debug\netcoreapp3.1\STORE CHAIN.RazorTargetAssemblyInfo.cache
+C:\MP\MadDuck\STORE CHAIN\obj\Debug\netcoreapp3.1\STORE CHAIN.dll
+C:\MP\MadDuck\STORE CHAIN\obj\Debug\netcoreapp3.1\STORE CHAIN.pdb
+C:\MP\MadDuck\STORE CHAIN\obj\Debug\netcoreapp3.1\STORE CHAIN.genruntimeconfig.cache
